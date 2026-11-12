@@ -4,7 +4,7 @@ import Entry from "./component/Entry";
 import mountFuji from "./component/images/mount fuji.jpg";
 import opera from "./component/images/opera.jpeg";
 
-import Geirangerfjord from "./component/images/geirangerfjord.jpeg";
+import Geirangerfjord from "./component/images/Geirangerfjord.jpeg";
 
 export default function App() {
     return (
